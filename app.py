@@ -13,7 +13,7 @@ import numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-import matplotlib.patches mpatches
+import matplotlib.patches as mpatches
 from matplotlib.patches import Arc, Circle, FancyArrow, Rectangle
 from datetime import datetime
 import streamlit.components.v1 as components
