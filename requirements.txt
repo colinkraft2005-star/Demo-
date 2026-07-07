@@ -1,5 +1,6 @@
 streamlit
 pandas
+numpy
 requests
-cloudscraper
+matplotlib
 urllib3
